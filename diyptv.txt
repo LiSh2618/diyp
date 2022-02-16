@@ -206,8 +206,18 @@ CCTV-17农业农村,http://111.20.33.93/TVOD/88888893/224/3221226208/index.m3u8
 精品大剧,http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8
 军旅剧场,http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
 
+测试频道1,#genre#
+清华电视台,http://v.mp.haue.edu.cn/hls/tsinghuatv.m3u8
+凤凰资讯,http://v.mp.haue.edu.cn/hls/fhzx.m3u8
+凤凰中文,http://v.mp.haue.edu.cn/hls/fhzw.m3u8
+凤凰电影,http://v.mp.haue.edu.cn/hls/fhdy.m3u8
+Discovery,http://v.mp.haue.edu.cn/hls/discovery.m3u8
+国家地理,http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
+Channel V,http://v.mp.haue.edu.cn/hls/channelv.m3u8
+星空卫视,http://v.mp.haue.edu.cn/hls/startv.m3u8
+Star Sports,http://v.mp.haue.edu.cn/hls/starsports.m3u8
 
-测试频道,#genre#
+测试频道2,#genre#
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
